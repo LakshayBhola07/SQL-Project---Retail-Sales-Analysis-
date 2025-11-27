@@ -1,10 +1,3 @@
-# SQL-Project---Retail-Sales-Analysis-
-
-Here is your **entire README wrapped in proper GitHub Markdown code block formatting**, ready to paste as-is into your repository:
-
----
-
-````markdown
 # 📊 Retail Sales Data Analysis using MySQL
 
 A complete SQL-based project analyzing retail sales data through data cleaning, exploration, and business-focused analytical queries. This project uncovers trends in revenue, customer behavior, category performance, and operational efficiency.
@@ -233,5 +226,10 @@ GROUP BY Shift;
 * Build interactive dashboards using Power BI or Tableau to visualize sales trends, categories, and customer insights.
 * Expand the dataset by integrating additional tables (products, promotions, store information) for richer analysis.
 
+```
+
+---
+
+If you want, I can also convert this into a **downloadable README.md file**, add **badges**, or design a **GitHub project banner** for your repository.
 ```
 
