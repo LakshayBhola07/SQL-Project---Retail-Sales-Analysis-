@@ -227,9 +227,3 @@ GROUP BY Shift;
 * Expand the dataset by integrating additional tables (products, promotions, store information) for richer analysis.
 
 ```
-
----
-
-If you want, I can also convert this into a **downloadable README.md file**, add **badges**, or design a **GitHub project banner** for your repository.
-```
-
